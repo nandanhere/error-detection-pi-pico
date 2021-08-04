@@ -1,5 +1,5 @@
 # Reliable Data Transmission
-The raspberry pi Pico edition of the "Error Detection" - Reliable data transmission by Ben eater
+The raspberry pi Pico edition of the ["Error Detection" - Reliable data transmission](https://www.youtube.com/watch?v=eq5YpKHXJDM) by Ben eater
 
 ## How to use
 - Since There is no proper library for the HD44780 Lcd, we can use the LCD library by [dhylands](https://github.com/dhylands/python_lcd/tree/master/lcd). add these to the main directory of the pi pico as you are creating the project.
